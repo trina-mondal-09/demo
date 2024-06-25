@@ -1,3 +1,3 @@
 # demo
 it is a demo repository
-author - Trina Mondal
+author - Trina Mondal (Hi)
